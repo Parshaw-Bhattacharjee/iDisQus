@@ -1,4 +1,4 @@
 # iDisQus
 A Coding Forum
 
-Database should be described according to the Schema.
+<Database should be described according to the Schema.>
