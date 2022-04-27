@@ -19,6 +19,10 @@
 
 name: Build and deploy PHP app to Azure Web App
 
+- name: Azure Login
+  uses: Azure/login@v1
+
+
 on:
   push:
     branches:
